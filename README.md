@@ -1,16 +1,152 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Sandip Biswal — AI/ML Portfolio
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio website showcasing my work in **Artificial Intelligence, Computer Vision, and Full-Stack Development**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Live Website:** https://your-vercel-link
+💻 **GitHub:** https://github.com/sandip234-ui/sandip-portfolio
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 About Me
 
-## Expanding the ESLint configuration
+I am a Computer Science undergraduate focused on building **real-world AI systems**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+My core areas include:
+
+- Computer Vision (YOLOv8, OpenCV)
+- Deep Learning
+- Real-time AI applications
+- Full-stack development (React + Flask)
+
+I enjoy building **end-to-end pipelines** — from model to deployment.
+
+---
+
+## 🔥 Featured Projects
+
+### 🔫 Weapon Detection System (YOLOv8)
+
+- Real-time weapon detection using deep learning
+- Supports video + live camera (RTSP/webcam)
+- Features:
+  - 🔔 Sound alerts
+  - 📧 Email alerts with snapshots
+  - 📊 CSV logging
+  - 📦 Frame storage
+
+---
+
+### 🧠 Multimodal Emotion Recognition System
+
+- Combines facial expression + speech emotion recognition
+- Real-time interaction via Streamlit dashboard
+- Focus on human-AI interaction
+
+---
+
+### 🌦️ Weather App (Full-Stack)
+
+- Real-time weather data using API integration
+- Built with React + Tailwind CSS
+- Clean UI and responsive design
+
+---
+
+## ⚙️ Tech Stack
+
+### 🤖 AI / ML
+
+- YOLOv8
+- OpenCV
+- TensorFlow
+- NumPy, Pandas
+
+### 💻 Development
+
+- React.js
+- Tailwind CSS
+- Flask
+- Node.js
+
+### 🛠 Tools
+
+- Git & GitHub
+- Streamlit
+- VS Code
+
+---
+
+## 📁 Project Structure
+
+sandip-portfolio/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── chatbot/
+│ ├── components/
+│ ├── data/
+│ ├── hooks/
+│ ├── pages/
+│ ├── sections/
+│ ├── utils/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+├── .gitignore
+├── README.md
+
+```
+
+> ⚠️ Note: `node_modules`, `dist`, and `.env` are excluded from GitHub for security and performance reasons.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/sandip-portfolio.git
+cd sandip-portfolio
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run Locally
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌍 Deployment
+
+This project is deployed using **Vercel** for fast and scalable hosting.
+
+---
+
+## 🔐 Environment Variables
+
+If required, create a `.env` file:
+
+```bash
+VITE_API_KEY=your_api_key
+```
+
+> ⚠️ Note: Environment variables must start with `VITE_` to work in Vite.
+
+---
+
+## 📬 Contact
+
+* 📧 Email: sandipbiswal839@gmail.com
+* 🔗 LinkedIn: [https://www.linkedin.com/in/sandip-biswal-728a7a291/](https://www.linkedin.com/in/sandip-biswal-728a7a291/)
+* 💻 GitHub: [https://github.com/sandip234-ui](https://github.com/sandip234-ui)
